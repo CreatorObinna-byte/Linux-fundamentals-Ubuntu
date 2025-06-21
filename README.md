@@ -12,6 +12,21 @@ The folder names are home1 and home2 respectively.
 
 Managing File permission and Ownership
 
+Premission.
+![screenshot](https://github.com/CreatorObinna-byte/Linux-fundamentals-Ubuntu/blob/c947b8e88250b6d0825dcb9004cd22eb7c54b3c5/Screenshot%20From%202025-06-21%2010-05-43.png)
+
+Here i used the permission values 700 and 400 respectively, 
+
+were 700 means; 
+"The owner of the directory can Read Write and Execute" and
+"Others can neither Read Write nor Execute"
+
+While 400 means;
+"The owner of the directory can only Read" and
+"Others can neither Read Write nor Execute"
+
+Ownership.
+
 
 #Task 5
 

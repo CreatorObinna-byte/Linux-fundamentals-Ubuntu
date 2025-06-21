@@ -10,6 +10,11 @@ The folder names are home1 and home2 respectively.
 
 #Task 4
 
+Managing File permission and Ownership
+
+
+#Task 5
+
 Installation and configuration of a package.
 
-![screenshot]()
+![screenshot](https://github.com/CreatorObinna-byte/Linux-fundamentals-Ubuntu/blob/cb54dcf99499e8d794847de6f5c5df59f2d1a141/Screenshot%20From%202025-06-21%2010-08-53.png)

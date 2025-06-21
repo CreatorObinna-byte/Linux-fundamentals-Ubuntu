@@ -33,10 +33,19 @@ Ownership.
 
 In this screenshot above i added/created a new user kingsley-atom first before i proceeded to change the ownership of the directory which will be shown on in the next slide below.
 
-![screenshot]()
+![screenshot](https://github.com/CreatorObinna-byte/Linux-fundamentals-Ubuntu/blob/4c789e82a1637d78f2b921c0b081da4a1d62614a/Screenshot%20From%202025-06-21%2010-08-04.png)
+
+Here the ownership of the directory home1 was changed from CreatorObinna-byte to kingsley-atom.
 
 #Task 5
 
 Installation and configuration of a package.
 
 ![screenshot](https://github.com/CreatorObinna-byte/Linux-fundamentals-Ubuntu/blob/cb54dcf99499e8d794847de6f5c5df59f2d1a141/Screenshot%20From%202025-06-21%2010-08-53.png)
+
+
+#Task 6
+
+Testing Remote Connectivity
+
+![screenshot]()
